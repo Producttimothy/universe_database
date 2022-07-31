@@ -1,5 +1,8 @@
 universe_database
 
+
+#my Sql funtions:
+https://www.w3schools.com/mysql/mysql_ref_functions.asp
 # SQL COMMANDS 
 
 get to ProstgresSQL database:
