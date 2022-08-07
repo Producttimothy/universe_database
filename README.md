@@ -29,6 +29,7 @@ COMANDS SQL (all comands in capital letters here (not necessary in SQL):
 DATABASE COMANDS:
 CREATE DATABASE
 = CREATE DATABASE ;
+ex. CREATE DATABASE NUMBER; 
 
 RENAME DATABASE
 = ALTER DATABASE database_name RENAME TO new_database_name;
